@@ -10,7 +10,7 @@ content='''
 <h1>Laptop Con figuration</h1>
 <table border="2px">
     <tr>
-        <th>System config</th>
+        <th>System configuration</th>
         <th>Description</th>
     </tr>
     <tr>
